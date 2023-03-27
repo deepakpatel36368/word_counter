@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+#container {
+    background-color: #DBDFFD;
+    height: 100vh;
+}
+
+
+#title {
+    background-color: #293462;
+    color: white;
+    border-radius: 10px;
+}
+
+.counter {
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    background-color: #293462;
+
+}
+
+.counter p{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.counter h4{
+
+    font-weight: 700;
+}
+
+#text-area{
+    width: 100%;
+height: 200px;
+}
+
+
+
+
+
+
+#char {
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
+
+#word {
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
+
+
+
+#footer-text{
+
+    background-color: #243A73;
+
+    font-family: 'Rubik', sans-serif;
+    margin-top: 80px;
+    color: white;
+}
+
+#footer-text h3{
+    font-weight: 700;
+}
+
+
